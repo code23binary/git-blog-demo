@@ -1,3 +1,7 @@
 Initial content
 Adding more content
+<<<<<<< HEAD
 Initial Content Adding more Content Adding some Content from test Branch
+=======
+Adding some more contents 
+>>>>>>> test
